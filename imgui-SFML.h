@@ -7,6 +7,8 @@
 #include <SFML/System/Time.hpp>
 #include <SFML/Window/Joystick.hpp>
 
+#define IMGUI_USER_CONFIG "imconfig-SFML.h"
+
 namespace sf
 {
     class Event;
